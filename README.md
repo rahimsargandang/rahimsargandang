@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimsargandang&" alt="rahimsargandang" /></p>
 
-- 🌱 I’m currently learning **Laravel and Flutter framework.**
+- 🌱 I’m currently learning **Nodejs.**
 
 
 
